@@ -1,0 +1,1 @@
+https://mirror.nju.edu.cn/adoptium/11/jre/x64/windows 

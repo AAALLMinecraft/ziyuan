@@ -1,0 +1,1 @@
+https://mirror.nju.edu.cn/adoptium/16/jdk/x32/windows 
